@@ -41,7 +41,6 @@
 | **7-segment anodes** | **AN0 = RB12**, **AN1 = RB13**, **AN2 = RA9**, **AN3 = RA10** (active-LOW) |
 | **7-segment segments (CA..CG)** | **CA = RG12**, **CB = RA14**, **CC = RD6**, **CD = RG13**, **CE = RG15**, **CF = RD7**, **CG = RD13** (active-LOW, common-anode) |
 
-> Tip: disable analog on used digital pins (e.g., set `ANSELx = 0` where needed).
 
 ---
 
