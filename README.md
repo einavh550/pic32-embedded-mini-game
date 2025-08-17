@@ -92,4 +92,9 @@
 
 ---
 
-## Repository Structure (suggested)
+## What I Learned
+- Configuring the **ADC**, scaling to engineering units, and gating gameplay via analog thresholds.  
+- Writing **LCD drivers** with busy-flag handling and crafting **CGRAM** sprites.  
+- Building a robust **keypad scanner** with debounce.  
+- Designing **Timer ISRs** that safely multiplex displays and schedule LED effects via `volatile` flags.  
+- Balancing **polling vs. interrupts** in an embedded **state-machine** game.
